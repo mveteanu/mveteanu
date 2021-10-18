@@ -12,4 +12,4 @@ You can also reach me on:
 - 🌐 vmasoft.net https://vmasoft.net
 - 🌐 PowerTests https://powertests.net
 
-Happy Coding 😀
+Happy Coding!
