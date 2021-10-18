@@ -4,7 +4,7 @@ My name is Marian Veteanu. Currently working as manager by day and hacker by nig
 
 You can also reach me on:
 
-- 📫 LinkedIn: https://linkedin.com/mveteanu
+- 📫 LinkedIn: https://linkedin.com/in/mveteanu
 - 📫 Twitter: https://twitter.com/mveteanu
 
 ... or just visit some of my old websites:
