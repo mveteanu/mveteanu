@@ -2,7 +2,7 @@
 
 My name is Marian Veteanu. Here you can find some of my old projects. Some of them go back to 1991.  
 
-While here you can also visit some of my old websites:
+If this seems fun you can also visit some of my old websites:
 
 - 🌐 vmasoft.net https://vmasoft.net
 - 🌐 PowerTests https://powertests.net
