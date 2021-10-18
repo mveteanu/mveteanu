@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marian Veteanu. Please feel free to explore these repositories.
+My name is Marian Veteanu. Currently working as manager by day and hacker by night ⚡
 You can also reach me on:
 
 - 📫 LinkedIn: https://linkedin.com/mveteanu
@@ -10,5 +10,3 @@ You can also reach me on:
 
 - 🌐 vmasoft.net https://vmasoft.net
 - 🌐 PowerTests https://powertests.net
-
-⚡ Fun fact: manager by day, hacker by night
