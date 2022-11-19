@@ -17,15 +17,13 @@ Happy Coding!
 
 ---
 
-Professional interests
-======================
+### Professional interests
 
 - scalable web architectures
 - microservice based architecture
 - no-code / low-code designs
 
-Hobbies
-=======
+### Hobbies
 
 The following are a few of my current recreational coding interests... may change in the future:
 
