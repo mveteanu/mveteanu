@@ -14,3 +14,23 @@ If this seems fun, you can also visit some of my old websites:
 - 📫 Twitter: https://twitter.com/mveteanu
 
 Happy Coding!
+
+---
+
+P.S. These are a few of my current interests... may change in the future:
+
+- Coding education
+- Building CPUs from scratch (both hardware and emulated)
+- RISC-V and ARM ISAs
+- Emulators in general
+- Fantasy Consoles
+- Writing compilers and interpreters
+- Video consoles built using low-power microcontrollers
+- Bare-metal development for Raspberry Pi
+- Compiling in the browser
+- Web Assembly for web projects
+- Web Assembly on low-power microcontrollers
+- Retro computers
+- ZX-Spectrum (my first computer was HC-90 a clone of ZX-Spectrum 48K)
+- microcontrollers in general
+- Hobby Electronics
