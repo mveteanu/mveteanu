@@ -17,7 +17,7 @@ Happy Coding!
 
 ---
 
-P.S. These are a few of my current interests... may change in the future:
+P.S. These are a few of my current recreational coding interests... may change in the future:
 
 - Coding education
 - Building CPUs from scratch (both hardware and emulated)
