@@ -17,7 +17,17 @@ Happy Coding!
 
 ---
 
-P.S. These are a few of my current recreational coding interests... may change in the future:
+Professional interests
+======================
+
+- scalable web architectures
+- microservice based architecture
+- no-code / low-code designs
+
+Hobbies
+=======
+
+The following are a few of my current recreational coding interests... may change in the future:
 
 - Coding education
 - Building CPUs from scratch (both hardware and emulated)
