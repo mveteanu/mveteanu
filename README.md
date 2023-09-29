@@ -36,9 +36,11 @@ The following are a few of my current recreational coding interests... may chang
 - Video consoles built using low-power microcontrollers
 - Bare-metal development for Raspberry Pi
 - Compiling in the browser
+- Web Technologies (vanilla, frameworks, APIs, etc.)
 - Web Assembly for web projects
 - Web Assembly on low-power microcontrollers
 - Retro computers
 - ZX-Spectrum (my first computer was HC-90 a clone of ZX-Spectrum 48K)
 - microcontrollers in general
 - Hobby Electronics
+
