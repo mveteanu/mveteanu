@@ -8,7 +8,7 @@ If this seems fun, you can also visit some of my old websites:
 - 🌐 PowerTests https://powertests.net
 - 🌐 CodeAvenger https://codeavenger.com
 
-⚡ New projects are not here. ✉ Please contact me to see what's new. You can reach me on:
+⚡ Note: Super-secret new projects are not here. ✉ Please get in touch with me to see what's new. You can reach me on:
 
 - 📫 LinkedIn: https://linkedin.com/in/mveteanu
 - 📫 Twitter: https://twitter.com/mveteanu
