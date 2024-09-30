@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Marian Veteanu. Here you can find some of my legacy projects. Some of them go back to 1991.  
+My name is Marian Veteanu. Here, you can find some of my legacy projects, with some dating back to 1991.
 
-Want to take a quick peek at one of my projects? Checkout:
+Want to take a quick peek at one of my current projects? Check out:
 
 - 🌐 codeguppy.com https://codeguppy.com
 - 🌐 YouTube for codeguppy https://youtube.com/@codingadventures
 
-If this seems fun, you can also visit some of my old websites:
+If this seems fun, you can also explore some of my older websites:
 
 - 🌐 vmasoft.net https://vmasoft.net
 - 🌐 PowerTests https://powertests.net
