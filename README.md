@@ -33,6 +33,7 @@ Happy Coding!
 The following are a few of my current recreational coding interests... may change in the future:
 
 - Coding education
+- GenAI (LLMs, RAG, etc.)
 - Building CPUs from scratch (both hardware and emulated)
 - RISC-V and ARM ISAs
 - Emulators in general
