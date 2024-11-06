@@ -24,7 +24,7 @@ Happy Coding!
 
 ### Professional interests
 
-- scalable web architectures (Check-out my tech Papers: https://github.com/mveteanu/techpapers/)
+- scalable web architectures (Check-out my tech papers 🌐 https://github.com/mveteanu/techpapers/)
 - microservice based architecture
 - no-code / low-code designs
 
