@@ -18,6 +18,10 @@ If this seems fun, you can also explore some of my older websites:
 - 📫 LinkedIn: https://linkedin.com/in/mveteanu
 - 📫 Twitter: https://twitter.com/mveteanu
 
+More about me on my personal website
+
+- 🌐 [mveteanu.me](https://mveteanu.me)
+
 Happy Coding!
 
 ---
