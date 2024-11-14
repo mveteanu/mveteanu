@@ -20,7 +20,7 @@ If this seems fun, you can also explore some of my older websites:
 
 More about me on my personal website
 
-- 👤 [mveteanu.me](https://mveteanu.me)
+- 🧑‍🦱 [https://mveteanu.me](https://mveteanu.me)
 
 Happy Coding!
 
